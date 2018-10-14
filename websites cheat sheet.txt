@@ -1,0 +1,5 @@
+https://devhints.io/
+http://overapi.com/
+
+http://superherojs.com/
+https://frontendchecklist.io/
