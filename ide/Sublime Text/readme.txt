@@ -1,0 +1,1 @@
+https://shortcutworld.com/Sublime-Text/Index
