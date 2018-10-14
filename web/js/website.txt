@@ -1,0 +1,2 @@
+https://devhints.io/es6
+http://es6-features.org/
